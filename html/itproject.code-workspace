@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "itproject",
+			"path": ".."
+		},
+		{
+			"name": "bootstrap-5.0.2-dist copy",
+			"path": "../../Users/user/Food/bootstrap/bootstrap-5.0.2-dist copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "itproject"
+	}
+}
